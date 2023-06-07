@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **areebjutt026@gmail.com**
 
-- 📄 Know about my experiences [(Resume Site https://github.com/Areeb-ur-Rehman)]((Resume Site https://github.com/Areeb-ur-Rehman))
+- 📄 Know about my experiences (Resume Site https://github.com/Areeb-ur-Rehman))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
