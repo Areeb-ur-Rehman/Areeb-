@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeb Ur Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">">
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/areeb-ur-rehman-117758243/](https://www.linkedin.com/in/areeb-ur-rehman-117758243/)
 
